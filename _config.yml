@@ -2,4 +2,4 @@ title: Fahrin Andiwijaya
 logo: assets/images/pict_1.jpg
 #description: epidemiology, disability studies and rehabilitation
 description: > # this means to ignore newlines until "show_exerpts:"
-theme: jekyll-minima
+theme: jekyll-theme-minimal
